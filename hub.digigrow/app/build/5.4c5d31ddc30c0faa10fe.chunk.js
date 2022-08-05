@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{f440144a4a0657615a15:function(n,t,u){"use strict";u.d(t,"b",(function(){return r})),u.d(t,"a",(function(){return o}));var r=function(n){return/\S+@\S+\.\S+/.test(n)},o=function(n,t){return t==n}}}]);

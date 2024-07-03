@@ -1,6 +1,0 @@
-sudo ssh -i ./SRV-API.pem useradmin@20.201.35.104
-
-sudo ssh -i ./SRV-APP.pem azureuser@191.235.244.245
-
-
-git access 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
